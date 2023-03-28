@@ -1,0 +1,4 @@
+name: ThrowAndStuff
+version: '${project.version}'
+main: nyth.prae.awesome.plugins.throwandstuff.ThrowAndStuff
+api-version: 1.19
